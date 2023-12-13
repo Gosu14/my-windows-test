@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "name": "Windows Scaffolding",
+            "slug": "my-windows-test",
+            "version": "0.0.1",
+            "rootDir": "/apps/my-windows-test"
+        }
+    ]
+}
